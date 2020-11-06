@@ -14,7 +14,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "The personal ramblings of J.C.E."
+title = "J.C.E."
 author = "Jeffrey C. Erlich"
 description = "Take your work seriously, but don't take yourself seriously"
 profilePicture = "images/profile.jpg"
